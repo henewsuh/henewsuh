@@ -6,7 +6,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:hanewsuh@gmail.com)
 
 
-My name is **Hanew Suh**, I'm 24 years old and I'm a master candidate of **Smart City Engineering** at Seoul National University in South Korea.
+My name is **Hanew Suh**, I'm 24 years old and I'm a master candidate of GIS/LBS lab at Seoul National University.
 - I'm currently studying at __ 
 - I'm currently learning 
 - I'm looking to learn 
