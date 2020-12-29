@@ -7,6 +7,9 @@
 
 
 My name is **Hanew Suh**, I'm 24 years old and I'm a master candidate of **Smart City Engineering** at Seoul National University in South Korea.
+- I'm currently studying at __ 
+- I'm currently learning 
+- I'm looking to learn 
 
 ## Education 
 - PSU 
@@ -14,3 +17,6 @@ My name is **Hanew Suh**, I'm 24 years old and I'm a master candidate of **Smart
 
 ## Experience
 - Indoor 
+
+## Languages and Tools: 
+
