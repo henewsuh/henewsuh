@@ -16,7 +16,8 @@ My name is **Hanew Suh**, I'm 24 years old and I'm a master candidate of GIS/LBS
 - SNU
 
 ## Experience
-- Indoor 
+- 2019.06 - ing : 사용자 참여형 3차원 실내 공간정보 구축
+- 
 
 ## Languages and Tools: 
 
