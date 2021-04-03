@@ -6,7 +6,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:hanewsuh@gmail.com)
 
 
-My name is **Hanew Suh**, I'm 24 years old and I'm a master candidate of GIS/LBS lab at Seoul National University.
+My name is **Hanew Suh**, I'm 25 years old and I'm a master candidate of GIS/LBS lab at Seoul National University.
 - I'm currently studying Smart City Engineering at Dept. of Civil & Engineering , Seoul National University.
 - I'm currently learning graph based deep learning and fully automative vectorization of 2D image. 
 - I'm looking to learn GIS-based spatial analysis. 
@@ -25,6 +25,7 @@ My name is **Hanew Suh**, I'm 24 years old and I'm a master candidate of GIS/LBS
   - 도로명주소 기본도의 배경레이어와 사물주소와 연계 프로세스 구축
 
 ## :purple_heart:Languages and Tools: 
-- Python
-- QGIS
+- Programming Languages: Python, SQL
+- Frameworks: PyToch, Tensorflow, Pandas, scikit-learn, DGL, NetworkX, GeoNetworkX
+- Analytic Tools: QGIS, ArcGIS
 
