@@ -17,6 +17,8 @@ My name is **Hanew Suh**, I'm 25 years old and I'm a master candidate of GIS/LBS
 - (ing) M.E. in Smarty City Engineering in Seoul National University 
 
 ## Project Experience
+- 2021.05 - ing : EY한영 컨설팅본부 Data&Analytics팀 인턴
+  - 현대자동차 딥러닝 기반 3D 데이터 분석 프로젝트
 - 2019.06 - ing : 사용자 참여형 3차원 실내 공간정보 구축
 - 2019.08 - 2020.01 : 주소체계 고도화에 따른 주소정보 개념 정립 연구
   - 주소정보의 종속관계 및 대체주소 개념 정립
