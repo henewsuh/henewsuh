@@ -16,16 +16,21 @@ My name is **Hanew Suh**, I'm 25 years old and I'm a master candidate of GIS/LBS
 - B.S. in Information Sciences and Technology minor in Pennsylvania State University 
 - (ing) M.E. in Smarty City Engineering in Seoul National University 
 
-## Experience
+## Project Experience
 - 2019.06 - ing : 사용자 참여형 3차원 실내 공간정보 구축
 - 2019.08 - 2020.01 : 주소체계 고도화에 따른 주소정보 개념 정립 연구
   - 주소정보의 종속관계 및 대체주소 개념 정립
 - 2020.06 - 2021.01 : 주소체계 고도화에 따른 주소정보 개념 정립 연구
   - 도로명주소 기본도 배경레이어 작성 및 유지관리 방향 제시 
   - 도로명주소 기본도의 배경레이어와 사물주소와 연계 프로세스 구축
+  
+## Data Competition Experience
+- DACON 공간정보 탐색적 데이터 분석 경진대회 (2020.12.14 ~ 2020.12.27) -- 최우수상 
+- COMPAS (용인시) 지역별 상권분석을 통한 청년창업 지원 대책 도출 (2020. 12. 15 ~ 2021.1.28) -- 최우수상 
+- COMPAS (세종시) 주택 시장 특성분석 (2021. 02. 08 ~ 2021. 03. 25) -- 입선  
 
 ## Languages and Tools: 
 - Programming Languages: Python, SQL
-- Frameworks: PyToch, Tensorflow, Pandas, scikit-learn, DGL, NetworkX, GeoNetworkX
+- Frameworks: PyToch, Tensorflow, Pandas, scikit-learn, NetworkX, GeoNetworkX
 - Analytic Tools: QGIS, ArcGIS
 
