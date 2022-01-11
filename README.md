@@ -6,7 +6,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:hanewsuh@gmail.com)
 
 
-My name is **Hanew Suh**, I'm 25 years old and I'm a master candidate of GIS/LBS lab at Seoul National University.
+My name is **Hanew Suh**, I'm 26 years old and I'm a master candidate of GIS/LBS lab at Seoul National University.
 - I'm currently studying Smart City Engineering at Dept. of Civil & Engineering , Seoul National University.
 - I'm currently learning graph based deep learning and fully automative vectorization of 2D image. 
 - I'm looking to learn GIS-based spatial analysis. 
@@ -17,10 +17,13 @@ My name is **Hanew Suh**, I'm 25 years old and I'm a master candidate of GIS/LBS
 - (ing) M.E. in Smarty City Engineering in Seoul National University 
 
 ## Project Experience
-- 2021.05 - ing : EY한영 컨설팅본부 Data&Analytics팀 인턴
+- 2022.01 - ing : 키워드 기반 공간 AI 플랫폼 구축 사업 (@SNU GIS/LBS LAB) 
+- 2021.05 - 2021.12 : EY한영 컨설팅본부 Data&Analytics팀 인턴
   - 현대자동차 딥러닝 기반 3D 데이터 모델링 프로젝트
   - 데이터 전처리, 머신러닝, 딥러닝 및 통계적 분석 프로그램 개발
-- 2019.06 - ing : 사용자 참여형 3차원 실내 공간정보 구축
+  - Python Plotly기반 3D 데이터 뷰잉을 위한 대쉬보드 웹사이트 구축
+  - Blender 프로그램 기반 사용자 참여형 3D 설계 데이터 생성 프로그램 개발
+- 2019.06 - 2021.05 : 사용자 참여형 3차원 실내 공간정보 구축
 - 2019.08 - 2020.01 : 주소체계 고도화에 따른 주소정보 개념 정립 연구
   - 주소정보의 종속관계 및 대체주소 개념 정립
 - 2020.06 - 2021.01 : 주소체계 고도화에 따른 주소정보 개념 정립 연구
@@ -34,6 +37,6 @@ My name is **Hanew Suh**, I'm 25 years old and I'm a master candidate of GIS/LBS
 
 ## Languages and Tools: 
 - Programming Languages: Python, SQL
-- Frameworks: PyToch, Tensorflow, Pandas, scikit-learn, NetworkX, GeoNetworkX
-- Analytic Tools: QGIS, ArcGIS
+- Frameworks: PyToch, Tensorflow, Pandas, scikit-learn, NetworkX, GeoNetworkX, Plotly, Open3D
+- Analytic Tools: QGIS, ArcGIS, Blender
 
