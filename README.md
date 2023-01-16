@@ -2,19 +2,15 @@
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hanew-suh-298ba7166/)
 [<img src="https://img.shields.io/github/followers/LeandraOliveiraS?label=follow&style=social" height="22" title="Follow me" />](https://github.com/henewsuh) 
-[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/hanewxyz)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:hanewsuh@gmail.com)
 
 
-My name is **Hanew Suh**, I'm 26 years old and I'm a master candidate of GIS/LBS lab at Seoul National University.
-- I'm currently studying Smart City Engineering at Dept. of Civil & Engineering , Seoul National University.
-- I'm currently learning graph based deep learning and fully automative vectorization of 2D image. 
-- I'm looking to learn GIS-based spatial analysis. 
+My name is **Hanew Suh**, I'm 27 years old and I currently work as a researcher at KAIST Urban Design Lab.
 
 ## Education 
 - B.S. in Security and Risk Analysis major in Pennsylvania State University
 - B.S. in Information Sciences and Technology minor in Pennsylvania State University 
-- (ing) M.E. in Smarty City Engineering in Seoul National University 
+- M.E. in Smarty City Engineering in Seoul National University 
 
 ## Project Experience
 - 2022.01 - ing : 키워드 기반 공간 AI 플랫폼 구축 사업 (@SNU GIS/LBS LAB) 
@@ -29,6 +25,7 @@ My name is **Hanew Suh**, I'm 26 years old and I'm a master candidate of GIS/LBS
 - 2020.06 - 2021.01 : 주소체계 고도화에 따른 주소정보 개념 정립 연구
   - 도로명주소 기본도 배경레이어 작성 및 유지관리 방향 제시 
   - 도로명주소 기본도의 배경레이어와 사물주소와 연계 프로세스 구축
+- 2023.01.03 - ing : 종로구 특별관리지역 지정 및 관리계획 수립 연구
   
 ## Data Competition Experience
 - DACON 공간정보 탐색적 데이터 분석 경진대회 (2020.12.14 ~ 2020.12.27) -- 최우수상 
