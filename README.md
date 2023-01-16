@@ -7,9 +7,9 @@
 My name is **Hanew Suh**, I'm 27 years old and I currently work as a researcher at KAIST Urban Design Lab.
 
 ## Education 
-- B.S. in Security and Risk Analysis major in Pennsylvania State University
-- B.S. in Information Sciences and Technology minor in Pennsylvania State University 
-- M.E. in Smarty City Engineering in Seoul National University 
+- B.S. in Security and Risk Analysis major in Pennsylvania State University (2018)
+- B.S. in Information Sciences and Technology minor in Pennsylvania State University (2018)
+- M.E. in Smarty City Engineering in Seoul National University (2022)
 
 ## Project Experience
 - 2022.01 - ing : 키워드 기반 공간 AI 플랫폼 구축 사업 (@SNU GIS/LBS LAB) 
